@@ -23,10 +23,7 @@ pip install -r requirements.txt
 python bilibili_stats.py
 ```
 
-## 注意事项
 
-- 当前版本使用模拟数据进行展示，实际使用时需要替换为真实的B站API调用
-- B站API可能有调用限制，请合理使用
 
 ## 未来计划
 
